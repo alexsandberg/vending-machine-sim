@@ -1,0 +1,13 @@
+  Currency                 Currency_Name       Currency_Type          Value       Quantity
+
+      USD$       One_Hundred_Dollar_Bill          Paper_bill         100.00              0
+      USD$             Fifty_Dollar_Bill          Paper_bill          50.00              0
+      USD$            Twenty_Dollar_Bill          Paper_bill          20.00              0
+      USD$               Ten_Dollar_Bill          Paper_bill          10.00              5
+      USD$              Five_Dollar_Bill          Paper_bill           5.00             10
+      USD$               One_Dollar_Bill          Paper_bill           1.00             20
+      USD$                 50_Cent_Piece          Metal_coin           0.50              5
+      USD$                       Quarter          Metal_coin           0.25             30
+      USD$                          Dime          Metal_coin           0.10             30
+      USD$                        Nickel          Metal_coin           0.05             30
+      USD$                         Penny          Metal_coin           0.01             20

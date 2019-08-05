@@ -1,0 +1,9 @@
+              Name               Price       Container       Quantity
+
+              Coke                1.50             can             10
+         Diet_Coke                1.50             can             10
+              Lays                1.00             bag             12
+           Doritos                1.00             bag             12
+          Snickers                1.25             bar             15
+         Milky_Way                1.25             bar             15
+     Wrigley's_Gum                0.50            pack             20
